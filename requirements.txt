@@ -1,3 +1,4 @@
 pandas
 ultralytics
 opencv-python
+seaborn
