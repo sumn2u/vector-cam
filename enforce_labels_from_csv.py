@@ -7,7 +7,7 @@ from collections import Counter
 import cv2
 
 # -------------------- CONFIGURATION --------------------
-CSV_PATH = "0623_specimens_modeling_master.csv"
+CSV_PATH = "csvs/0623_specimens_modeling_master.csv"
 IMAGE_SOURCE_DIR = "./0623"
 OUTPUT_DIR = "./yolo_dataset_corrected"
 MODEL_PATH = "best.pt"

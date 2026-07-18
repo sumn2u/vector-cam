@@ -7,7 +7,7 @@ import cv2
 from collections import Counter
 
 # -------------------- CONFIGURATION --------------------
-CSV_PATH = "0623_specimens_modeling_master.csv"
+CSV_PATH = "csvs/0623_specimens_modeling_master.csv"
 IMAGE_SOURCE_DIR = "./0623"          # where the original images are stored
 OUTPUT_DIR = "./yolo_dataset"        # YOLO dataset will be created here
 MODEL_PATH = "best.pt"               # your trained YOLO model
